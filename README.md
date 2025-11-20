@@ -8,8 +8,6 @@ Software renderer escrito en Rust que genera un pequeño sistema solar únicamen
 - 🖼️ Captura principal:
 ![alt text](image.png)
 
-  <img width="1177" height="779" alt="Sistema Solar" src="https://github.com/user-attachments/assets/61e019a8-a49e-4315-b62c-b46e0bfda8ca" />
-
 ## Características Clave
 
 - Renderizado 100 % en CPU con rasterización propia y fragment shaders escritos a mano.
